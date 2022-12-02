@@ -1,0 +1,15 @@
+C:\Users\Глеб\OneDrive\Рабочий стол\Разработчик\Контроль версий\Знакомство с ЯП\Lesson_5\Task31\bin\Debug\net6.0\Task31.exe
+C:\Users\Глеб\OneDrive\Рабочий стол\Разработчик\Контроль версий\Знакомство с ЯП\Lesson_5\Task31\bin\Debug\net6.0\Task31.deps.json
+C:\Users\Глеб\OneDrive\Рабочий стол\Разработчик\Контроль версий\Знакомство с ЯП\Lesson_5\Task31\bin\Debug\net6.0\Task31.runtimeconfig.json
+C:\Users\Глеб\OneDrive\Рабочий стол\Разработчик\Контроль версий\Знакомство с ЯП\Lesson_5\Task31\bin\Debug\net6.0\Task31.dll
+C:\Users\Глеб\OneDrive\Рабочий стол\Разработчик\Контроль версий\Знакомство с ЯП\Lesson_5\Task31\bin\Debug\net6.0\Task31.pdb
+C:\Users\Глеб\OneDrive\Рабочий стол\Разработчик\Контроль версий\Знакомство с ЯП\Lesson_5\Task31\obj\Debug\net6.0\Task31.csproj.AssemblyReference.cache
+C:\Users\Глеб\OneDrive\Рабочий стол\Разработчик\Контроль версий\Знакомство с ЯП\Lesson_5\Task31\obj\Debug\net6.0\Task31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Глеб\OneDrive\Рабочий стол\Разработчик\Контроль версий\Знакомство с ЯП\Lesson_5\Task31\obj\Debug\net6.0\Task31.AssemblyInfoInputs.cache
+C:\Users\Глеб\OneDrive\Рабочий стол\Разработчик\Контроль версий\Знакомство с ЯП\Lesson_5\Task31\obj\Debug\net6.0\Task31.AssemblyInfo.cs
+C:\Users\Глеб\OneDrive\Рабочий стол\Разработчик\Контроль версий\Знакомство с ЯП\Lesson_5\Task31\obj\Debug\net6.0\Task31.csproj.CoreCompileInputs.cache
+C:\Users\Глеб\OneDrive\Рабочий стол\Разработчик\Контроль версий\Знакомство с ЯП\Lesson_5\Task31\obj\Debug\net6.0\Task31.dll
+C:\Users\Глеб\OneDrive\Рабочий стол\Разработчик\Контроль версий\Знакомство с ЯП\Lesson_5\Task31\obj\Debug\net6.0\refint\Task31.dll
+C:\Users\Глеб\OneDrive\Рабочий стол\Разработчик\Контроль версий\Знакомство с ЯП\Lesson_5\Task31\obj\Debug\net6.0\Task31.pdb
+C:\Users\Глеб\OneDrive\Рабочий стол\Разработчик\Контроль версий\Знакомство с ЯП\Lesson_5\Task31\obj\Debug\net6.0\Task31.genruntimeconfig.cache
+C:\Users\Глеб\OneDrive\Рабочий стол\Разработчик\Контроль версий\Знакомство с ЯП\Lesson_5\Task31\obj\Debug\net6.0\ref\Task31.dll
